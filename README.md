@@ -80,8 +80,10 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 
 <img width="1071" alt="Screenshot 2025-01-17 at 5 14 51 PM" src="https://github.com/user-attachments/assets/0e58c347-edd9-4c0f-a49e-0d95c712a547" />
-![Chat Interface](frontend/public/chat.png)
-![Settings Panel](frontend/public/settings.png)
+<img width="1582" alt="Screenshot 2025-01-17 at 5 13 44 PM" src="https://github.com/user-attachments/assets/d3195738-6ffc-45ec-a8de-ba89ba934102" />
+<img width="1582" alt="Screenshot 2025-01-17 at 5 11 33 PM" src="https://github.com/user-attachments/assets/d89b36f5-d35f-4aa7-ba70-0bfda1a8c402" />
+
+
 
 ## 📜 License
 
