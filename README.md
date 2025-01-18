@@ -79,7 +79,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📱 Screenshots
 
 
-![Kubernetes Deployment]<img width="1071" alt="Screenshot 2025-01-17 at 5 14 51 PM" src="https://github.com/user-attachments/assets/0e58c347-edd9-4c0f-a49e-0d95c712a547" />
+![Kubernetes Deployment](<img width="1071" alt="Screenshot 2025-01-17 at 5 14 51 PM" src="https://github.com/user-attachments/assets/0e58c347-edd9-4c0f-a49e-0d95c712a547" />)
 ![Chat Interface](frontend/public/chat.png)
 ![Settings Panel](frontend/public/settings.png)
 
